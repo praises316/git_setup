@@ -32,8 +32,8 @@ GitHub is a cloud-based platform where Git repositories can be hosted. It provid
 # vi. Git & GitHub Setup for Beginners
 
 1. Install Git
-   - Download from [git-scm.com](https://git-scm.com)
-   - Confirm installation: `git --version`
+   * Download from [git-scm.com](https://git-scm.com)
+   * Confirm installation: `git --version`
 
 2. Configure Git
 
