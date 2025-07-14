@@ -5,10 +5,10 @@ Version control is a system that helps track changes made to files and code over
 
 # ii. Importance of Version Control
 
-- Tracks changes to code or files.
-- Helps teams collaborate smoothly.
-- Allows rolling back to previous versions.
-- Supports experimenting with new features using branches.
+ a. Tracks changes to code or files.
+ b. Helps teams collaborate smoothly.
+ c. Allows rolling back to previous versions.
+ d.  Supports experimenting with new features using branches.
 
 
 # iii. What is Git?
@@ -23,10 +23,10 @@ GitHub is a cloud-based platform where Git repositories can be hosted. It provid
 
 # v. Difference Between Git and GitHub
 
-- Git is a local version-control tool you install and run on your computer, while GitHub is a remote hosting platform where Git repositories live online.  
-- Git is primarily command-line based (though GUIs exist); GitHub offers a web interface plus optional CLI tools.  
-- Git was created by Linus Torvalds in 2005; GitHub is owned by Microsoft (acquired in 2018).  
-- Git can work completely offline after installation; GitHub requires an internet connection to push, pull, or collaborate.
+1. Git is a local version-control tool you install and run on your computer, while GitHub is a remote hosting platform where Git repositories live online.  
+2. Git is primarily command-line based (though GUIs exist); GitHub offers a web interface plus optional CLI tools.  
+3. Git was created by Linus Torvalds in 2005; GitHub is owned by Microsoft (acquired in 2018).  
+4.  Git can work completely offline after installation; GitHub requires an internet connection to push, pull, or collaborate.
 
 
 # vi. Git & GitHub Setup for Beginners
